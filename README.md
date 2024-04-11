@@ -35,11 +35,11 @@ Em Selecione o seu recurso Azure, selecione o seu recurso.
 
 Em Digite seu próprio texto:
 
-Código
-  Hotel cansado com mau serviço
-  The Royal Hotel, Londres, Reino Unido
-  06/05/2018
-  Este é um hotel antigo (existe desde 1950) e os móveis dos quartos são medianos - tornando-se um pouco antigos agora e precisam ser alterados. A internet não funcionou e tive que ir a uma de suas salas de escritório para fazer o check-in do meu voo para casa. O site diz que fica perto do Museu Britânico, mas é muito longe para caminhar.
+> Hotel Gran Corona
+> São Paulo, Brasil
+> 
+> A localização é do lado da Estação da República (metrô). O hotel é fácil de localizar (o que facilita para quem não conhece a cidade). Hotel bem silencioso, apesar de se localizar em uma região mais agitada do centro. O pessoal do hotel foi bem tranquilo, inclusive quando pedi para estender mais um dia. Os quartos parecem bastante com as fotos, e apesar de eu gostar de um chuveiro mais forte, o cômodo quarto era bem espaçoso. E tem luz boa tanto no espelho do banheiro como na escrivaninha. Voltaria.
+
 Marque a caixa para confirmar que a demonstração incorrerá em uso e poderá incorrer em custos e selecione Executar.
 
 Revise a saída. 
